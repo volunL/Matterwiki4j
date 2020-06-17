@@ -24,5 +24,8 @@ This program will auto create a h2 database.
 So you don't need to config a database url
 
 
+##Screen Shot
+
+<img src="https://github.com/volunL/Matterwiki4j/blob/master/screenshot.png?raw=true" />
 
 
