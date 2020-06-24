@@ -6,7 +6,7 @@ According to the react.js project [Matterwiki](https://github.com/Matterwiki/Mat
 I rewrite it in Java  based on Springboot. 
 
 
-## Get Start it
+## Get Started
 
 Just run this command  to start the jar,and the server's port is 8080
 
